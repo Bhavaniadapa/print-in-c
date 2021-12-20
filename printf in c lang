@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("printf in c lang");
+printf("printf statement in c lang");
 return 0;
 }
